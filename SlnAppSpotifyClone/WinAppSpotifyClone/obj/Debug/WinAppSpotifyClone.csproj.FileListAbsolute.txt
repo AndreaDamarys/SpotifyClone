@@ -1,0 +1,12 @@
+C:\Users\Damarys\source\repos\SlnAppSpotifyClone\WinAppSpotifyClone\bin\Debug\WinAppSpotifyClone.exe.config
+C:\Users\Damarys\source\repos\SlnAppSpotifyClone\WinAppSpotifyClone\bin\Debug\WinAppSpotifyClone.exe
+C:\Users\Damarys\source\repos\SlnAppSpotifyClone\WinAppSpotifyClone\bin\Debug\WinAppSpotifyClone.pdb
+C:\Users\Damarys\source\repos\SlnAppSpotifyClone\WinAppSpotifyClone\obj\Debug\WinAppSpotifyClone.csproj.AssemblyReference.cache
+C:\Users\Damarys\source\repos\SlnAppSpotifyClone\WinAppSpotifyClone\obj\Debug\WinAppSpotifyClone.FormLogin.resources
+C:\Users\Damarys\source\repos\SlnAppSpotifyClone\WinAppSpotifyClone\obj\Debug\WinAppSpotifyClone.FormMain.resources
+C:\Users\Damarys\source\repos\SlnAppSpotifyClone\WinAppSpotifyClone\obj\Debug\WinAppSpotifyClone.Properties.Resources.resources
+C:\Users\Damarys\source\repos\SlnAppSpotifyClone\WinAppSpotifyClone\obj\Debug\WinAppSpotifyClone.csproj.GenerateResource.cache
+C:\Users\Damarys\source\repos\SlnAppSpotifyClone\WinAppSpotifyClone\obj\Debug\WinAppSpotifyClone.csproj.CoreCompileInputs.cache
+C:\Users\Damarys\source\repos\SlnAppSpotifyClone\WinAppSpotifyClone\obj\Debug\WinAppSpotifyClone.exe
+C:\Users\Damarys\source\repos\SlnAppSpotifyClone\WinAppSpotifyClone\obj\Debug\WinAppSpotifyClone.pdb
+C:\Users\Damarys\source\repos\SlnAppSpotifyClone\WinAppSpotifyClone\obj\Debug\WinAppSpotifyClone.FormReadSong.resources
